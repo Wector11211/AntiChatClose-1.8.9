@@ -1,0 +1,44 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+!src/
+src/*
+!src/main/
+src/main/*
+!src/main/java/
+src/main/java/*
+!src/main/java/net/
+src/main/java/net/*
+!src/main/java/net/labymod/
+src/main/java/net/labymod/*
+!src/main/java/net/labymod/addons/
+src/main/java/net/labymod/addons/*
+!src/main/java/net/labymod/addons/Wector11211/
+src/main/java/net/labymod/addons/Wector11211/*
+!src/main/java/net/labymod/addons/Wector11211/AntiChatClose/
+!src/main/java/net/labymod/addons/Wector11211/AntiChatClose/*
+!src/main/java/net/labymod/addons/Wector11211/AntiChatClose/ASM/
+!src/main/java/net/labymod/addons/Wector11211/AntiChatClose/ASM/*
+
+!src/main/resources/
+src/main/resources/*
+!src/main/resources/addon.json

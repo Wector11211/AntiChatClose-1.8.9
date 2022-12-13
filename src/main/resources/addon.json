@@ -1,0 +1,11 @@
+{
+  "uuid": "%uuid%",
+  "name": "Anti Chat Close",
+  "mainClass": "net.labymod.addons.Wector11211.AntiChatClose.AntiChatCloseAddon",
+  "transformerClass": "net.labymod.addons.Wector11211.AntiChatClose.ASM.PacketCloseWindowTransformer",
+  "description": "Prevents chat from being closed when respawning.",
+  "version": 0.1,
+  "author": "Wector11211",
+  "category": 2,
+  "icon": "https://i.imgur.com/wJtlvhq.png"
+}
